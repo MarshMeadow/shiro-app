@@ -1,8 +1,8 @@
 # The official Shiro android app (SHUT DOWN)
 
-**Site**: https://shiro.is/
+**Site**: https://shiro.is
 
-**Site Discord**: https://discord.gg/shiro
+**Old Site Discord**: discord.gg/shiro (no longer used)
 
 **Downloads**: https://github.com/Blatzar/shiro-app/releases
 

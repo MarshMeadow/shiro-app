@@ -1,4 +1,4 @@
-# The official Shiro android app 
+# The official Shiro android app (SHUT DOWN)
 
 **Site**: https://shiro.is/
 
